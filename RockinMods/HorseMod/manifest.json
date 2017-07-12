@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Horse Mod",
+  "Authour": "Rockin Rolla",
+  "Version": {
+    "MajorVersion": 1,
+    "MinorVersion": 0,
+    "PatchVersion": 0,
+    "Build": ""
+  },
+  "Description": "Change your horse into a vespa",
+  "PerSaveConfigs": false,
+  "EntryDll": "HorseMod.dll"
+}
